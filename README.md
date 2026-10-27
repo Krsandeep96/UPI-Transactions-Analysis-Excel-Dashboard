@@ -75,6 +75,4 @@ UPI-Transactions-Analysis/
 This project is intended for educational and portfolio purposes. Suspected fraud indicators do not necessarily represent confirmed fraudulent transactions. Any publicly shared dataset should be anonymized and free of confidential information.
 ## 👤 Author
 Sandeep Kumar Singh | Data Analytics
-Aspiring AI Data Engineering Professional | Data Analytics Portfolio Projects
----
 ⭐ If you find this project useful, consider starring the repository.
